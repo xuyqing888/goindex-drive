@@ -9,9 +9,9 @@ var authConfig = {
   "accent_color": "green",
   "dark_theme": false, //make sure you set main color
   "search": false, // dont use, not wokrk :(
-  "client_id": "202264815644.apps.googleusercontent.com",
-  "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-  "refresh_token": "", // Authorization token
+  "client_id": "667396931146-g6nb385hp81qdfhn3tjl0jtg421drsih.apps.googleusercontent.com",
+  "client_secret": "gsZAkbL-KtQAMemF833TX5MG",
+  "refresh_token": "1//0eunoZAdx-3k8CgYIARAAGA4SNwF-L9IroaTq4yEm_GoH6GmUXaOzo6vreF5kq6wr9h7H1V53Jz-vP0hIZVJFQILXX4VlC1DRx9k", // Authorization token
   "root": "" // Root directory ID
 };
 var gd;
